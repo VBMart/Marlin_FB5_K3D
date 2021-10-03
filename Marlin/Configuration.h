@@ -1099,7 +1099,7 @@
 
 #ifdef ALL_DRV_2208
 #define USR_E0_DIR true
-#define USR_X_DIR false
+#define USR_X_DIR true
 #define USR_Y_DIR false
 #define USR_Z_DIR true
 #endif
